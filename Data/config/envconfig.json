@@ -1,10 +1,10 @@
 {
   "BOTNAME": "RaNii",
-  "BOTNICK": "{ . } × RaNii",
+  "BOTNICK": "{ * } × RaNii",
   "PREFIX": "*",
   "ADMINBOT": [
     "61563401938811",
-    "100095054184216",
+    "",
     ""
   ],
   "REACT_DELETE_EMOJI": "😡",
